@@ -1,3 +1,0 @@
-# Castlesage
-
-Hello World!
